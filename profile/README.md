@@ -1,6 +1,6 @@
 # ANR Systems
 
-We build autonomous systems for defense and first responders, and we contribute back to the open-source community our work is built on. Here, we share parts of that work and explain how we decide what to share.
+We build autonomous systems for people who work in dangerous environments, from search and rescue and firefighting to disaster response and military force protection. The work is sensing and situational awareness, not weapons: helping operators see and understand what's around them so they can act. We contribute back to the open-source community our work is built on, and here we share parts of that work and explain how we decide what to share.
 
 ## Why this org exists
 
@@ -15,7 +15,7 @@ We practice process transparency and capability secrecy.
 - **Open:** how we build. This includes our common tools, standards we create, developer resources, and an honest account of how we used AI in the code we publish.
 - **Closed:** what gives us a competitive edge. This includes mission-specific capabilities, sensitive payloads, and anything whose disclosure would weaken the protection these systems are meant to provide.
 
-We cannot change some of those boundaries: as a defense developer, export-controlled technical data (ITAR/EAR) cannot be made public. We acknowledge this limitation rather than pretend it's entirely our choice.
+We can't change some of those boundaries. Some of our work falls under defense, so export-controlled technical data (ITAR/EAR) can't be made public. We acknowledge that rather than pretend it's entirely our choice.
 
 ## AI transparency
 
